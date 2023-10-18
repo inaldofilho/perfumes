@@ -1,2 +1,4 @@
 # html
- loja de perfumes
+ loja de perfumes virtual
+ modelo inicial
+ 

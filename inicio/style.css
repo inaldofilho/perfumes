@@ -1,0 +1,197 @@
+@charset "utf-8";
+
+
+
+@media screen and (min-width:600px ){
+
+    body{
+        width: 600px;
+        margin: auto;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+}
+@media screen and (min-width:600px ){
+    
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+     
+
+
+}
+
+    .nome{
+        background-color: black;
+        
+        margin: -8px;
+        color: #f9d520;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif ;
+        padding: 4px;
+    }
+    .logo{
+        border-radius: 20px;
+        width: 200px;
+        height: 230px;
+        box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.289);
+    }
+    header{
+        padding: 10px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    header p{
+        text-indent: 15px;
+        text-align: justify;
+        font-size: 18px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    nav a{
+        font-size: 20px;font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+        text-decoration: none;
+        margin-top: 10px;
+        background-color: #f9d520;
+        padding: 5px;
+        border-radius: 10px;
+        font-weight: bold;
+        margin-right: 5px;
+        box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.275);
+    }
+    nav a:hover{
+        background-color: black;
+        text-decoration: underline;
+        color: #f9d520;
+
+    }
+    section{
+        text-align: center;
+
+    }
+    section>h2{
+        text-shadow: 1px 1px 1px black;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+
+    }
+    .marca{
+        box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.261);
+        border-radius: 50%;
+        display: inline-table;
+        width: 90px;
+        height: 90px;
+        margin-right: 5px;
+        margin-top: 5px;
+
+    }
+    .conteudo{
+        text-align: center;
+    }
+    .conteudo  h3{
+        font-size: 25px;
+        text-align: center;
+        text-shadow: 1px 1px 1px black;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .conteudo  li{
+        font-weight: 900;
+        font-size: 24px;
+        text-shadow: 1px 1px 1px black;
+    
+    }
+    .conteudo  p{
+        padding: 5px;
+        text-indent: 10px;
+        text-align: justify;
+        font-size: 18px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    video{
+        display: block;
+        margin: auto;
+        width: 350px;
+        height: 200px;
+        border-radius: 15px;
+        margin-bottom: 15px;
+    }
+    figure img{
+        margin-bottom: 10px;
+        border-radius: 15px;
+        width: 200px;
+        height: 230px;
+    }
+    figure figcaption{
+        margin-bottom: 10px;
+    }
+    figure a{
+        font-size: 20px;font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+        text-decoration: none;
+        margin-top: 10px;
+        background-color: #f9d520;
+        padding: 7px;
+        border-radius: 10px;
+        font-weight: bold;
+
+    }
+    figure a:hover{
+        background-color: black;
+        text-decoration: underline;
+        color: #f9d520;
+
+    }
+    article p{
+        text-align: justify;
+        text-indent: 15px;
+        font-size: 20px;font-family: Georgia, 'Times New Roman', Times, serif;
+
+    }
+    iframe{
+        display: block;
+        margin: auto;
+        border-radius: 20px;
+
+    }
+    footer{
+    text-align: center ;
+    background-color: #f9d520;
+    margin-top: 20px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 10px;
+
+    }
+    footer li{
+        text-align: justify;
+        text-indent: 15px;
+        font-size: 18px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .midias{   
+        width: 70px;
+        height: 70px;
+        
+        
+        
+        display:inline-block;
+    }
+
+    .midias a>img{
+        padding: 0px;
+        text-align: center;
+        width: 50px;
+        height: 50px;
+        display: block;
+        border-radius: 40%;
+        
+    }
+    .midias a>img:hover{
+        padding: 3px;
+        box-shadow: 1px 1px 1px 1px black;
+    }
+
+
+
+
+

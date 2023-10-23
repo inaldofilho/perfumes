@@ -14,7 +14,7 @@
         display: block;
         margin: auto;
         border-radius: 20px;
-        width:420px;
+        width:450px;
         height:450px;
         
 
@@ -32,13 +32,17 @@
     body{
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
+    nav a{
+        margin-top: 10px;
+        margin-right: 5px;
+    }
 
     iframe{
         display: block;
         margin: auto;
         border-radius: 20px;
         width:350px;
-        height:450px;
+        height:400px;
 
     }
      
@@ -134,7 +138,7 @@
     video{
         display: block;
         margin: auto;
-        width: 350px;
+        width: 340px;
         height: 200px;
         border-radius: 15px;
         margin-bottom: 15px;

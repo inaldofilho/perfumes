@@ -33,7 +33,7 @@
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
     nav a{
-        margin-top: 5px;
+        margin-top: 10px;
         margin-right: 5px;
         display: inline-table;
     }
@@ -46,7 +46,7 @@
         display: block;
         margin: auto;
         border-radius: 20px;
-        width:330px;
+        width:310px;
         height:400px;
 
     }

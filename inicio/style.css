@@ -33,15 +33,20 @@
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
     nav a{
-        margin-top: 10px;
+        margin-top: 5px;
         margin-right: 5px;
+        display: inline-table;
+    }
+    video{
+        width: 330px;
+       
     }
 
     iframe{
         display: block;
         margin: auto;
         border-radius: 20px;
-        width:350px;
+        width:330px;
         height:400px;
 
     }
@@ -139,7 +144,7 @@
         display: block;
         margin: auto;
         width: 340px;
-        height: 200px;
+        height: 210px;
         border-radius: 15px;
         margin-bottom: 15px;
     }

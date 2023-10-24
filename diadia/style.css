@@ -133,7 +133,7 @@
             box-shadow: 1px 1px 4px 1px black;
             border-radius: 20px;
             width: 150px;
-            height: 150px;
+            height: 130px;
             padding: 10px;
             margin: 8px;
             margin-right:5px ;
@@ -147,8 +147,8 @@
         div img{
         
             padding: 10px;
-            width: 130px;
-            height: 130px;
+            width: 120px;
+            height: 120px;
             
         }
         

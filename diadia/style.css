@@ -22,11 +22,7 @@
     video{
         width: 320px;
     }
-    div{
-
-        width: 100px;
-        height: 200px;
-    }
+    
      
 
 
@@ -136,10 +132,10 @@
             margin: auto;
             box-shadow: 1px 1px 4px 1px black;
             border-radius: 20px;
-            width: 100px;
-            height: 200px;
+            width: 110px;
+            height: 150px;
             padding: 10px;
-            margin: 10px;
+            margin: 8px;
             margin-right:5px ;
         }
         div h3{
@@ -152,7 +148,7 @@
         
             padding: 10px;
             width: 100px;
-            height: 190px;
+            height: 130px;
             
         }
         

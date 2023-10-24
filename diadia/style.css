@@ -10,10 +10,18 @@
     }
     
 }
-@media screen and (min-width:600px ){
+@media screen and (max-width:600px ){
     
-    body{
-        font-family: Georgia, 'Times New Roman', Times, serif;
+   body{
+       font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+    nav a{
+        margin-right: 3px;
+        display: inline-table;
+    }
+    video{
+        width: 330px;
+       
     }
      
 
@@ -41,7 +49,8 @@
             margin-top: 30px;
             text-align: center;
         }
-        p{
+        header p{
+            font-family: Georgia, 'Times New Roman', Times, serif;
             font-size: 18px;
         }
         header li{
@@ -62,7 +71,7 @@
             padding: 5px;
             border-radius: 10px;
             font-weight: bold;
-            margin-right: 5px;
+            margin:5px;
             box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.275);
         }
         nav a:hover{
@@ -96,6 +105,7 @@
             margin-left: 10px;
             margin-right: 10px;
             text-indent: 15px;
+            font-size: 17px;
         }
         video{
             margin-top: 20px;
@@ -118,9 +128,10 @@
             box-shadow: 1px 1px 4px 1px black;
             border-radius: 20px;
             width: 160px;
-            height: 270px;
+            height: 230px;
             padding: 10px;
             margin: 10px;
+            margin-right:5px ;
         }
         div h3{
             margin-top: -4px;
@@ -157,6 +168,7 @@
         }
         div p{
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 18px;
         }
         .midias{
             padding: 0px;
@@ -180,7 +192,11 @@
         footer{
             margin-bottom: 50px;
         }
+        footer li{
+            font-size: 17px;
+        }
         footer p{
+            font-size: 17px;
             text-align: center;
             padding: 10px;
         }

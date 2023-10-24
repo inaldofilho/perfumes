@@ -63,7 +63,8 @@
             margin-bottom: 20px;
         }
         nav a{
-            font-size: 20px;font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
             color: white;
             text-decoration: none;
             margin-top: 10px;
@@ -108,10 +109,12 @@
             font-size: 17px;
         }
         video{
-            margin-top: 20px;
-            border-radius: 20px;
-            width: 380px;
-            height: 220px;
+            display: block;
+            margin: auto;
+            width: 340px;
+            height: 210px;
+            border-radius: 15px;
+            margin-bottom: 15px;
             
 
         }
@@ -173,7 +176,7 @@
         .midias{
             padding: 0px;
             display: inline-table;
-            margin: 15px;
+            margin: 10px;
             border-radius: 15px;
             width: 54px;
             height: 54px;
@@ -186,7 +189,8 @@
             height: 50px;
         }
         .midias:hover{
-            box-shadow: 1px 4px 4px 4px rgba(0, 0, 0, 0.316);
+           
+            box-shadow: 1px 1px 4px 1px black;
         }
     
         footer{
